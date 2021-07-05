@@ -15,6 +15,6 @@ Flutter大学という日本最大級のFlutterコミュニティを運営して
   <a href="http://twitter.com/kboy_silvergym">
     <img height="20" src="https://img.shields.io/twitter/follow/kboy_silvergym?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <//qiita.com/kboy">
+  <a href="http://qiita.com/kboy">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kboy/contributions.svg" />   
 </p>
