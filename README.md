@@ -1,5 +1,11 @@
 ## Hi, I'm kboy!
 
+- 合同会社KBOY代表
+- ドコドア技術顧問
+- Flutter大学を運営 https://kboyflutteruniv.com
+- アプリ開発の個別指導はCodeBoyで http://bit.ly/3oQScSk
+- アプリ開発の発注はFlutterギルドで http://bit.ly/3uuby0G
+
 <p align="left"> 
   </a>
      <a href="https://www.youtube.com/channel/UCevPBAKPBSgJIHU-vSeltlw">
