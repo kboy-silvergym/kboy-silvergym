@@ -1,4 +1,4 @@
-# Hi, I'm kboy!
+# Hi, I'm kboy in Hokkaido Japan
 
 Flutter大学という日本最大級のFlutterコミュニティを運営しております！
 
