@@ -1,6 +1,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=kboy-silvergym&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kboy-silvergym&theme=tokyonight&layout=compact)
-
 
 # Hi, I'm kboy in Hokkaido Japan
 
