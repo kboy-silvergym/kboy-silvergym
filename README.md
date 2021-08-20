@@ -1,4 +1,6 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=kboy-silvergym&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&line_height=24)
+![github stats](https://github-readme-stats.vercel.app/api?username=kboy-silvergym&show_icons=true&theme=graywhite&count_private=true&hide=contribs&line_height=24)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=kboy-silvergym&show_icons=true&theme=graywhite&count_private=true&line_height=24)
 
 # kboyって誰？
 
