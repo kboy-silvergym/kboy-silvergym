@@ -1,7 +1,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=kboy-silvergym&show_icons=true&theme=graywhite&count_private=true&hide=contribs&line_height=24)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kboy-silvergym&show_icons=true&theme=graywhite&count_private=true&line_height=24)
-
 # kboyって誰？
 
 本名藤川慶。1991年7月15日生まれ。札幌出身。ネット上ではkboyの愛称で知られる。2015年に早稲田大学創造理工学部を卒業後、プロトコーポレーションでアプリ開発ディレクターを経験。その後プログラマーに転向し、報道系ベンチャーのJX通信社でニュースアプリのiOSアプリ開発を経験。その後ARベンチャーのGraffityにてリードエンジニアとして活躍。大人気アプリ「ペチャバト」をリリース。個人の発信力を高めたいと考え2019年2月に独立しフリーランスエンジニアとなる。その後2020年6月に合同会社KBOYを創業。Flutterを基軸にプログラミング教育事業などを進めている。
