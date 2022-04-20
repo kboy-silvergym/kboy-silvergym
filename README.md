@@ -7,9 +7,8 @@
 今はFlutter大学という日本最大級のFlutterコミュニティ運営を頑張っています！
 
 ### 運営サービス
-- Flutter大学 https://kboyflutteruniv.com
-- アプリ開発の個別指導がお願いできるCodeBoy http://bit.ly/3oQScSk
-- アプリ開発を発注できるFlutterギルド https://flutterguild.jp
+- Flutter大学 https://flutteruniv.com
+- プログラミングスキルのマーケットプレイスCodeBoy http://bit.ly/3oQScSk
 
 <p align="left"> 
   </a>
