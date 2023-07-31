@@ -1,14 +1,14 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=kboy-silvergym&show_icons=true&theme=vue&count_private=true)
 
-# kboyって誰？
+# Who is kboy?
+Real name Kei Fujikawa. Born July 15, 1991, and hails from Sapporo. Known by the nickname "kboy" online. After graduating from the School of Creative Science and Engineering at Waseda University in 2015, he gained experience as an App Development Director at Proto Corporation. He then transitioned to being a programmer, gaining experience in iOS app development for a news app at the news venture, JX Press Corp. He later played a significant role as a Lead Engineer at the AR venture, Graffity, releasing the hugely popular app "Pecha Battle." Aiming to enhance individual communication power, he became a freelance engineer in February 2019. In June 2020, he founded KBOY LLC. Currently, he is advancing programming education projects with Flutter as the foundation.
 
-本名藤川慶。1991年7月15日生まれ。札幌出身。ネット上ではkboyの愛称で知られる。2015年に早稲田大学創造理工学部を卒業後、プロトコーポレーションでアプリ開発ディレクターを経験。その後プログラマーに転向し、報道系ベンチャーのJX通信社でニュースアプリのiOSアプリ開発を経験。その後ARベンチャーのGraffityにてリードエンジニアとして活躍。大人気アプリ「ペチャバト」をリリース。個人の発信力を高めたいと考え2019年2月に独立しフリーランスエンジニアとなる。その後2020年6月に合同会社KBOYを創業。Flutterを基軸にプログラミング教育事業などを進めている。
+He is currently working hard to manage "Flutter University", which is one of the largest Flutter communities in Japan!
 
-今はFlutter大学という日本最大級のFlutterコミュニティ運営を頑張っています！
-
-### 運営サービス
-- Flutter大学 https://flutteruniv.com
-- プログラミングスキルのマーケットプレイスCodeBoy http://bit.ly/3oQScSk
+# Operated Services
+- Flutter University https://flutteruniv.com
+- Programming skill marketplace, CodeBoy http://bit.ly/3oQScSk
+- Sobriety app, OB-1 https://apps.apple.com/jp/app/id1666271955
 
 <p align="left"> 
   </a>
