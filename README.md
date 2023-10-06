@@ -15,7 +15,7 @@ In June 2020, I founded KBOY Inc.
 
 I'm currently working hard to manage "Flutter Daigaku", which is one of the largest Flutter communities in Japan!
 
-# Operated Services
+# Services
 - Flutter Daigaku https://flutteruniv.com
 - Programming skill marketplace, CodeBoy http://bit.ly/3oQScSk
 - Sobriety app, OB-1 https://apps.apple.com/jp/app/id1666271955
